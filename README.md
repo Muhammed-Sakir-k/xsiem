@@ -343,7 +343,7 @@ This project is for **educational purposes only**. All attack simulations were p
 
 ## 👤 Author
 
-**Shakir** — SOC Analyst  
+**Shakir** — Cybersecurity Enthusiast | SIEM Developer | Ethical Hacking Learner 
 📧 [muhdshakir5656@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-sakir-k/)
 🐙 [GitHub](https://github.com/Muhammed-Sakir-k)
