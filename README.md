@@ -334,6 +334,9 @@ xsiem/
 | Incident Response | Alert triage, investigation workflow |
 
 ---
+## 📄 Project Documentation
+
+📥 Download full report: [XSIEM Wazuh SIEM Dashboard Project Report](./XSIEM_Wazuh_SIEM_Dashboard_Project_Report.pdf)
 
 ## ⚠️ Disclaimer
 
