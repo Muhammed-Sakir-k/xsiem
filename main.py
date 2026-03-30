@@ -16,8 +16,8 @@ app.add_middleware(
 
 # ── Wazuh Config ──────────────────────────────────────────────
 WAZUH_HOST = "https://localhost:55000"
-WAZUH_USER = "wazuh-wui"
-WAZUH_PASS = "MyS3cr37P450r.*-"
+WAZUH_USER = os.getenv("WAZUH_USER")
+WAZUH_PASS = os.getenv("WAZUH_PASS")
 CLIENT_KWARGS = {"verify": False, "timeout": 30.0}
 
 # ── Email Config — UPDATE THESE ───────────────────────────────
